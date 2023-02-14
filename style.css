@@ -1,0 +1,176 @@
+/* تنسيق العناصر النصية */
+
+body {
+
+font-family: Tahoma, sans-serif;
+
+direction: rtl;
+
+text-align: right;
+
+}
+
+h1 {
+
+font-size: 28px;
+
+text-align: center;
+
+}
+
+h2 {
+
+font-size: 22px;
+
+text-align: center;
+
+}
+
+p {
+
+font-size: 18px;
+
+line-height: 1.5;
+
+}
+
+i {
+
+font-style: italic;
+
+}
+
+u {
+
+text-decoration: underline;
+
+}
+
+sup {
+
+vertical-align: super;
+
+font-size: 14px;
+
+}
+
+sub {
+
+vertical-align: sub;
+
+font-size: 14px;
+
+}
+
+small {
+
+font-size: 14px;
+
+}
+
+big {
+
+font-size: 22px;
+
+}
+
+font1 {
+
+font-size: 20px;
+
+font-family: Georgia, serif;
+
+color: #0066cc;
+
+}
+
+font2 {
+
+font-size: 20px;
+
+font-family: Georgia, serif;
+
+color: #cc0000;
+
+}
+
+mark {
+
+background-color: yellow;
+
+}
+
+del {
+
+text-decoration: line-through;
+
+}
+
+/* تنسيق العناصر المرئية */
+
+img {
+
+display: block;
+
+margin: auto;
+
+}
+
+video {
+
+display: block;
+
+margin: auto;
+
+}
+
+/* تنسيق الروابط */
+
+a {
+
+color: #0066cc;
+
+text-decoration: none;
+
+}
+
+a:hover {
+
+text-decoration: underline;
+
+}
+
+/* تنسيق العنوان الأول */
+
+#a1 {
+
+font-size: 28px;
+
+text-align: center;
+
+}
+
+/* تنسيق الفيديو */
+
+video {
+
+width: 500px;
+
+height: 300px;
+
+margin-bottom: 20px;
+
+}
+
+/* تنسيق الصورة */
+
+img {
+
+width: 600px;
+
+height: 400px;
+
+border: 6px solid black;
+
+}
+
